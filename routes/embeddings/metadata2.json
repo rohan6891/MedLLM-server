@@ -1,0 +1,802 @@
+[
+  {
+    "id": "1",
+    "text": "A fracture is a broken bone, often caused by injuries like falls, car accidents, or sports mishaps. Symptoms include intense pain that worsens with movement, swelling around the injury, bruising, deformity (like an unnatural bend), and difficulty moving the affected limb. Some fractures cause a grinding sensation or visible bone protrusion in open fractures. Treatment depends on the fracture\u2019s severity: simple fractures may heal with a cast or splint to immobilize the bone for 4\u20138 weeks, while complex fractures may require surgery with plates, screws, or rods to align bones properly. Healing time varies\u2014children heal faster than adults\u2014and physical therapy often aids recovery by restoring strength and mobility. Complications like infections or poor healing are rare but serious. To prevent fractures, maintain strong bones with a diet rich in calcium (milk, yogurt) and vitamin D (sunlight, supplements), engage in weight-bearing exercises like walking, and reduce fall risks by clearing home hazards, using handrails, and wearing supportive shoes. Regular bone density checks are vital for older adults to catch weaknesses early.",
+    "metadata": {
+      "title": "Fracture",
+      "source": "Healthline",
+      "category": "condition",
+      "url": "https://www.healthline.com/health/fracture"
+    }
+  },
+  {
+    "id": "2",
+    "text": "A brain tumor is an abnormal growth of cells in the brain, which can be benign (noncancerous) or malignant (cancerous). Symptoms vary by tumor location but often include persistent headaches, seizures, vision or hearing problems, weakness in limbs, balance issues, memory loss, or personality changes like irritability. Causes are unclear, but risk factors include radiation exposure, family history of tumors, or genetic conditions. Treatment typically involves surgery to remove as much of the tumor as possible, followed by radiation therapy or chemotherapy to target remaining cells. Some benign tumors may only need monitoring if small and asymptomatic. Early detection via MRI or CT scans improves outcomes significantly. Rehabilitation, including physical or speech therapy, helps patients regain lost functions post-treatment. Patients may experience fatigue or cognitive challenges during recovery. To reduce risks, avoid unnecessary radiation and maintain regular health checkups. Support groups provide emotional support for patients and families, and ongoing research offers hope for new treatments like targeted therapies.",
+    "metadata": {
+      "title": "Brain Tumor",
+      "source": "Healthline",
+      "category": "condition",
+      "url": "https://www.healthline.com/health/brain-tumor"
+    }
+  },
+  {
+    "id": "3",
+    "text": "Diabetes occurs when your body struggles to regulate blood sugar due to insufficient or ineffective insulin, a hormone that helps cells use glucose. Type 1 diabetes, an autoimmune condition, destroys insulin-producing cells, requiring lifelong insulin injections. Type 2 diabetes, more common, involves insulin resistance and is linked to obesity, inactivity, or genetics. Gestational diabetes affects pregnant women and usually resolves post-delivery. Symptoms include excessive thirst, frequent urination, fatigue, blurred vision, slow-healing wounds, and tingling in hands or feet. Treatment for Type 1 involves insulin via shots or pumps; Type 2 may require lifestyle changes (healthy diet, exercise), oral medications, or insulin. Gestational diabetes needs careful monitoring and sometimes insulin. Untreated diabetes can lead to heart disease, kidney damage, or nerve issues. Prevention includes maintaining a healthy weight, eating low-sugar foods like vegetables and whole grains, and exercising regularly (30 minutes most days). Regular blood sugar checks and doctor visits help manage the condition and prevent complications, ensuring a better quality of life.",
+    "metadata": {
+      "title": "Diabetes",
+      "source": "Healthline",
+      "category": "condition",
+      "url": "https://www.healthline.com/health/diabetes"
+    }
+  },
+  {
+    "id": "4",
+    "text": "Hypertension, or high blood pressure, occurs when blood pushes too forcefully against artery walls, straining the heart and blood vessels. Often called a 'silent killer,' it may have no symptoms but increases risks for heart disease, stroke, kidney failure, and vision loss. Causes include genetics, stress, smoking, excessive salt intake, obesity, and lack of exercise. Symptoms, when present, may include headaches, dizziness, or nosebleeds. Treatment focuses on lifestyle changes: reducing salt, eating fruits and vegetables, exercising (30 minutes daily), quitting smoking, and managing stress through meditation. Medications like diuretics, ACE inhibitors, or beta-blockers help lower blood pressure. Regular monitoring with a home blood pressure cuff is crucial, as readings above 120/80 mmHg may need attention. Untreated hypertension can damage organs over time. Prevention involves maintaining a healthy weight, limiting alcohol, and avoiding processed foods. Routine checkups catch early signs, and patient education empowers better control, reducing long-term health risks significantly.",
+    "metadata": {
+      "title": "Hypertension",
+      "source": "Healthline",
+      "category": "condition",
+      "url": "https://www.healthline.com/health/high-blood-pressure-hypertension"
+    }
+  },
+  {
+    "id": "5",
+    "text": "Asthma is a chronic lung condition that inflames and narrows airways, making breathing difficult. Symptoms include wheezing (a whistling sound), shortness of breath, chest tightness, and coughing, often worse at night or early morning. Triggers vary and include pollen, dust mites, pet dander, smoke, cold air, or exercise. Asthma attacks can be sudden and severe, requiring immediate action. Treatment uses rescue inhalers (like albuterol) for quick relief and controller inhalers (steroids) to prevent symptoms. Avoiding triggers is key\u2014use air purifiers, wash bedding regularly, and avoid smoking. Severe cases may need oral medications or allergy shots. Patients should work with doctors to create an asthma action plan, detailing medications and emergency steps. Untreated asthma can lead to permanent lung damage. Prevention involves staying active, maintaining a healthy weight, and getting flu vaccines, as infections can worsen symptoms. Regular checkups and monitoring with peak flow meters help manage asthma, improving daily life and reducing emergency visits.",
+    "metadata": {
+      "title": "Asthma",
+      "source": "Healthline",
+      "category": "condition",
+      "url": "https://www.healthline.com/health/asthma"
+    }
+  },
+  {
+    "id": "6",
+    "text": "Depression is a serious mental health condition marked by persistent sadness, hopelessness, and loss of interest in activities once enjoyed. Symptoms include feeling tired, irritable, worthless, or guilty, trouble sleeping (insomnia or oversleeping), difficulty concentrating, appetite changes, and, in severe cases, thoughts of self-harm. Causes include genetics, trauma, stress, or chemical imbalances in the brain. Treatment often involves psychotherapy, such as cognitive behavioral therapy (CBT), to change negative thought patterns, and medications like SSRIs (e.g., sertraline) to balance brain chemicals. Lifestyle changes\u2014regular exercise, healthy eating, and strong social connections\u2014boost mood. Support groups provide community and coping strategies. Untreated depression can lead to relationship issues, work problems, or physical health decline. Prevention includes stress management (yoga, meditation), building resilience, and seeking help early. Regular mental health checkups and open communication with loved ones help catch signs early. With proper treatment, most people improve significantly, regaining joy and functionality in daily life, though ongoing management may be needed.",
+    "metadata": {
+      "title": "Depression",
+      "source": "Healthline",
+      "category": "condition",
+      "url": "https://www.healthline.com/health/depression"
+    }
+  },
+  {
+    "id": "7",
+    "text": "Arthritis causes joint pain, stiffness, and swelling, often worsening with age, impacting mobility and quality of life. Osteoarthritis, the most common type, results from cartilage wear-and-tear, while rheumatoid arthritis is an autoimmune condition attacking joint linings. Symptoms include redness, warmth, and reduced range of motion, often worse in the morning. Causes include aging, injuries, genetics, or obesity, which stresses joints. Treatment involves pain relievers (ibuprofen), anti-inflammatory drugs, or DMARDs for rheumatoid arthritis. Physical therapy strengthens muscles around joints, and occupational therapy aids daily tasks. Severe cases may require joint replacement surgery. Lifestyle changes like low-impact exercise (swimming, yoga), weight loss, and hot/cold therapy reduce symptoms. Untreated arthritis can lead to joint deformity or disability. Prevention includes staying active, maintaining a healthy weight, and protecting joints from injury. Regular checkups and early intervention help manage symptoms, allowing patients to stay active and minimize pain, improving long-term joint health and function.",
+    "metadata": {
+      "title": "Arthritis",
+      "source": "Healthline",
+      "category": "condition",
+      "url": "https://www.healthline.com/health/arthritis"
+    }
+  },
+  {
+    "id": "8",
+    "text": "Heart disease encompasses conditions like coronary artery disease, heart failure, and arrhythmias, affecting heart function. Symptoms include chest pain (angina), shortness of breath, fatigue, swelling in legs, or irregular heartbeats. Causes include high cholesterol, hypertension, smoking, diabetes, and family history. Treatment involves lifestyle changes: eating a heart-healthy diet (low in saturated fats, high in fruits and vegetables), exercising 30 minutes most days, and quitting smoking. Medications like statins lower cholesterol, while beta-blockers control blood pressure. Procedures like angioplasty (stents) or bypass surgery address blocked arteries. Untreated heart disease can lead to heart attacks or stroke. Prevention includes regular cholesterol and blood pressure checks, stress management, and limiting alcohol. Cardiac rehabilitation programs help recovery post-event, combining exercise and education. Early detection through EKGs or stress tests improves outcomes. Patients should work with cardiologists to create personalized plans, ensuring better heart health and reducing risks of serious complications over time.",
+    "metadata": {
+      "title": "Heart Disease",
+      "source": "Healthline",
+      "category": "condition",
+      "url": "https://www.healthline.com/health/heart-disease"
+    }
+  },
+  {
+    "id": "9",
+    "text": "Cancer is the uncontrolled growth of abnormal cells, forming tumors or spreading to other body parts. Symptoms vary by type but include unexplained weight loss, fatigue, persistent pain, lumps, or skin changes. Causes include genetic mutations, smoking, excessive sun exposure, poor diet, and infections like HPV. Treatment depends on cancer type and stage: surgery removes tumors, chemotherapy or radiation kills cancer cells, and immunotherapy boosts the immune system. Early detection via screenings (mammograms, colonoscopies) significantly improves survival rates. Side effects like nausea or hair loss are common but manageable with supportive care. Prevention involves quitting smoking, eating a balanced diet rich in fruits and vegetables, using sunscreen, and getting vaccinated against HPV. Regular checkups catch early signs, and genetic testing may identify risks. Support groups and counseling help patients cope emotionally. Advances in targeted therapies offer hope for better outcomes, making ongoing research critical for future treatments.",
+    "metadata": {
+      "title": "Cancer",
+      "source": "Healthline",
+      "category": "condition",
+      "url": "https://www.healthline.com/health/cancer"
+    }
+  },
+  {
+    "id": "10",
+    "text": "A stroke occurs when blood flow to the brain is blocked (ischemic) or a blood vessel bursts (hemorrhagic), causing brain cell damage. Symptoms appear suddenly: numbness or weakness (especially on one side), confusion, trouble speaking, vision loss, dizziness, or severe headache. Immediate treatment is critical\u2014clot-busting drugs like tPA or surgery can restore blood flow within hours. Causes include high blood pressure, smoking, diabetes, and atrial fibrillation. Rehabilitation, including physical, speech, and occupational therapy, helps regain skills like walking or talking. Long-term effects may include paralysis or memory issues. Prevention involves controlling blood pressure, quitting smoking, eating a low-fat diet, and exercising regularly. Aspirin or anticoagulants may reduce clot risks for high-risk patients. Regular checkups and managing cholesterol help lower stroke risk. Stroke survivors benefit from support groups and caregiver assistance, as recovery can be challenging but possible with consistent effort and medical support.",
+    "metadata": {
+      "title": "Stroke",
+      "source": "Healthline",
+      "category": "condition",
+      "url": "https://www.healthline.com/health/stroke"
+    }
+  },
+  {
+    "id": "11",
+    "text": "Obesity is defined as having excessive body fat, increasing risks for diabetes, heart disease, hypertension, and joint problems. Symptoms include significant weight gain, fatigue, shortness of breath, and joint pain due to added stress. Causes include overeating, sedentary lifestyles, genetics, hormonal disorders, or medications like antidepressants. Treatment focuses on gradual weight loss through a balanced diet (high in vegetables, low in processed foods), regular exercise (150 minutes weekly), and behavioral changes like mindful eating. Medications or bariatric surgery (e.g., gastric bypass) may help severe cases. Untreated obesity can lead to sleep apnea, infertility, or reduced life expectancy. Prevention involves maintaining a healthy weight, limiting sugary drinks, and staying active from childhood. Support groups or counseling address emotional eating, a common barrier. Regular doctor visits monitor related conditions like cholesterol or blood sugar. With commitment, weight loss improves energy, mobility, and overall health, reducing risks of serious complications significantly.",
+    "metadata": {
+      "title": "Obesity",
+      "source": "Healthline",
+      "category": "condition",
+      "url": "https://www.healthline.com/health/obesity"
+    }
+  },
+  {
+    "id": "12",
+    "text": "Allergies occur when the immune system overreacts to harmless substances like pollen, pet dander, foods (peanuts, shellfish), or medications. Symptoms range from mild\u2014sneezing, runny nose, itchy eyes, rashes\u2014to severe, like anaphylaxis, causing breathing difficulties or swelling. Triggers vary, and some allergies are seasonal (hay fever). Causes include genetics, environmental exposures, or weakened immune systems. Treatment involves avoiding triggers (e.g., removing pets, using hypoallergenic bedding), taking antihistamines (like cetirizine), or using nasal sprays. Severe allergies may require epinephrine auto-injectors (EpiPen) for emergencies. Allergy testing identifies specific triggers, and immunotherapy (allergy shots) can reduce sensitivity over time. Untreated allergies can worsen asthma or cause infections like sinusitis. Prevention includes minimizing exposure to dust, mold, or pollen and checking food labels. Regular checkups ensure proper management, and patients should carry emergency medications if at risk for anaphylaxis, improving safety and quality of life.",
+    "metadata": {
+      "title": "Allergies",
+      "source": "Healthline",
+      "category": "condition",
+      "url": "https://www.healthline.com/health/allergies"
+    }
+  },
+  {
+    "id": "13",
+    "text": "Migraines are severe, throbbing headaches, often on one side of the head, lasting 4\u201372 hours. Symptoms include nausea, vomiting, sensitivity to light, sound, or smells, and aura (visual disturbances like flashing lights). Triggers include stress, hormonal changes, caffeine, certain foods (chocolate, aged cheese), or sleep issues. Causes may involve genetics or brain chemical imbalances. Treatment uses over-the-counter pain relievers (ibuprofen) for mild attacks, while prescription drugs (triptans, CGRP inhibitors) target severe cases. Preventive medications reduce frequency for chronic migraines. Lifestyle changes\u2014regular sleep, hydration, stress management (yoga, meditation), and avoiding triggers\u2014help control attacks. Keeping a headache diary tracks triggers and patterns. Untreated migraines can disrupt work and daily life. Prevention includes maintaining a consistent routine and managing stress. Regular neurologist visits ensure effective treatment plans, and relaxation techniques improve quality of life for sufferers, reducing the impact of this debilitating condition.",
+    "metadata": {
+      "title": "Migraines",
+      "source": "Healthline",
+      "category": "condition",
+      "url": "https://www.healthline.com/health/migraine"
+    }
+  },
+  {
+    "id": "14",
+    "text": "Thyroid disorders affect the thyroid gland, which regulates metabolism through hormone production. Hypothyroidism (underactive thyroid) causes fatigue, weight gain, dry skin, hair loss, cold intolerance, and depression due to low hormone levels. Hyperthyroidism (overactive thyroid) leads to weight loss, anxiety, rapid heartbeat, sweating, and heat intolerance. Causes include autoimmune diseases (Hashimoto\u2019s, Graves\u2019), iodine deficiency, or thyroid nodules. Symptoms also include goiter (neck swelling) or irregular periods. Treatment for hypothyroidism uses levothyroxine to replace hormones; hyperthyroidism may need antithyroid drugs, radioactive iodine, or surgery to remove part of the thyroid. Regular blood tests monitor hormone levels. Untreated disorders can lead to heart problems or infertility. Prevention involves adequate iodine intake (seafood, iodized salt) and managing stress. Regular checkups catch issues early, especially for those with family history. Patients benefit from support groups and dietary adjustments, ensuring better energy and overall health with proper management.",
+    "metadata": {
+      "title": "Thyroid Disorders",
+      "source": "Healthline",
+      "category": "condition",
+      "url": "https://www.healthline.com/health/thyroid-disorders"
+    }
+  },
+  {
+    "id": "15",
+    "text": "Osteoporosis is a condition where bones become weak, brittle, and prone to fractures, especially in the hips, spine, and wrists. It\u2019s common in older adults, particularly postmenopausal women, due to reduced estrogen. Symptoms are often absent until a fracture occurs, though some experience back pain or stooped posture. Causes include aging, low calcium intake, vitamin D deficiency, smoking, excessive alcohol, and lack of exercise. Treatment involves medications like bisphosphonates to strengthen bones, calcium (1200 mg daily), and vitamin D supplements. Weight-bearing exercises (walking, dancing) and resistance training improve bone density and balance, reducing fall risks. Untreated osteoporosis can lead to chronic pain or disability. Prevention includes a bone-healthy diet, regular exercise, quitting smoking, and limiting alcohol. Bone density scans (DXA) monitor risks in older adults. Fall-proofing homes (removing rugs, adding grab bars) and regular checkups help manage this silent disease, preserving mobility and independence.",
+    "metadata": {
+      "title": "Osteoporosis",
+      "source": "Healthline",
+      "category": "condition",
+      "url": "https://www.healthline.com/health/osteoporosis"
+    }
+  },
+  {
+    "id": "16",
+    "text": "Pneumonia is a lung infection caused by bacteria, viruses, or fungi, inflaming air sacs and making breathing difficult. Symptoms include productive cough (with mucus), high fever, chills, chest pain, shortness of breath, fatigue, and confusion (especially in older adults). Risk factors include smoking, chronic illnesses (diabetes, COPD), and weakened immune systems. Bacterial pneumonia, often caused by Streptococcus pneumoniae, is treated with antibiotics (e.g., amoxicillin). Viral pneumonia may improve with rest and fluids, though antivirals help in some cases. Severe cases require hospitalization for oxygen or IV fluids. Complications include lung abscesses or sepsis. Prevention involves vaccinations (pneumococcal, flu), quitting smoking, and handwashing to avoid infections. Healthy habits like exercise and a balanced diet boost immunity. Patients should rest, stay hydrated, and follow treatment plans to avoid relapse. Regular checkups and early intervention reduce risks, ensuring faster recovery and better lung health, especially for vulnerable groups like the elderly.",
+    "metadata": {
+      "title": "Pneumonia",
+      "source": "Healthline",
+      "category": "condition",
+      "url": "https://www.healthline.com/health/pneumonia"
+    }
+  },
+  {
+    "id": "17",
+    "text": "Kidney stones are hard mineral deposits, often calcium-based, that form in the kidneys, causing intense pain when passing through the urinary tract. Symptoms include sharp pain in the lower back or side, blood in urine, nausea, vomiting, and frequent urination. Causes include dehydration, high-sodium or high-protein diets, genetics, or conditions like gout. Treatment focuses on pain relief (ibuprofen) and drinking plenty of water (2\u20133 liters daily) to flush out small stones. Larger stones may require medications to relax ureters or procedures like lithotripsy (sound waves) or surgery. Untreated stones can cause infections or kidney damage. Prevention involves staying hydrated, reducing salt and oxalate-rich foods (spinach, nuts), and maintaining a healthy weight. Regular checkups and urine tests monitor recurrence risks, especially for those with family history. Dietary changes and consistent hydration significantly lower the chance of new stones, improving comfort and kidney function long-term.",
+    "metadata": {
+      "title": "Kidney Stones",
+      "source": "Healthline",
+      "category": "condition",
+      "url": "https://www.healthline.com/health/kidney-stones"
+    }
+  },
+  {
+    "id": "18",
+    "text": "Gallstones are hard deposits, usually cholesterol or bilirubin, that form in the gallbladder, a small organ storing bile. Symptoms include sudden, intense pain in the upper right abdomen or center, nausea, vomiting, fever, or jaundice if stones block bile ducts. Many gallstones are asymptomatic until a blockage occurs. Causes include high-fat diets, obesity, rapid weight loss, genetics, or diabetes. Treatment often involves cholecystectomy (surgical removal of the gallbladder), a minimally invasive procedure. Smaller stones may dissolve with medications like ursodiol, though this is slower. Untreated gallstones can lead to gallbladder inflammation or pancreatitis. Prevention includes eating a low-fat, high-fiber diet (fruits, vegetables), maintaining a healthy weight, and avoiding rapid weight loss. Regular checkups and ultrasounds detect stones early, especially for those with risk factors. Post-surgery, most patients live normally without dietary restrictions, though some adjust to avoid fatty foods, ensuring better digestive health.",
+    "metadata": {
+      "title": "Gallstones",
+      "source": "Healthline",
+      "category": "condition",
+      "url": "https://www.healthline.com/health/gallstones"
+    }
+  },
+  {
+    "id": "19",
+    "text": "Eczema, or atopic dermatitis, is a chronic skin condition causing red, itchy, and inflamed patches, often on the face, arms, or legs. Symptoms include dry skin, intense itching (worse at night), scaling, or oozing sores, with flares triggered by stress, allergens (pollen, pet dander), irritants (soaps, fabrics), or weather changes. Causes involve genetics, immune system overactivity, and skin barrier defects. Treatment uses moisturizers to lock in hydration, topical steroids (hydrocortisone) to reduce inflammation, and antihistamines for itching. Avoiding triggers\u2014through hypoallergenic products or dust mite-proof bedding\u2014is crucial. Severe cases may need phototherapy or immunosuppressants. Untreated eczema can lead to infections or sleep issues. Prevention includes daily moisturizing, gentle skincare, and stress management. Regular dermatologist visits and patch testing identify triggers, helping patients manage flares. Support groups offer coping strategies, and consistent care improves skin health, reducing discomfort and enhancing quality of life for those affected.",
+    "metadata": {
+      "title": "Eczema",
+      "source": "Healthline",
+      "category": "condition",
+      "url": "https://www.healthline.com/health/eczema"
+    }
+  },
+  {
+    "id": "20",
+    "text": "Anxiety disorders involve excessive, persistent worry or fear that disrupts daily life, including types like generalized anxiety disorder, panic disorder, and phobias. Symptoms include restlessness, rapid heartbeat, sweating, trembling, fatigue, trouble sleeping, and difficulty concentrating. Causes include genetics, stress, trauma, or brain chemistry imbalances. Treatment combines cognitive behavioral therapy (CBT) to reframe anxious thoughts, medications like SSRIs (e.g., escitalopram), and relaxation techniques such as deep breathing or mindfulness. Lifestyle changes\u2014regular exercise, healthy diet, and adequate sleep\u2014reduce symptoms. Untreated anxiety can lead to depression or substance abuse. Prevention involves stress management (yoga, meditation), building strong social support, and avoiding caffeine or alcohol, which can worsen anxiety. Regular mental health checkups catch early signs, and therapy empowers patients to manage triggers. Support groups provide community, and with proper care, most people experience significant relief, improving work, relationships, and overall well-being, though ongoing strategies may be needed.",
+    "metadata": {
+      "title": "Anxiety Disorders",
+      "source": "Healthline",
+      "category": "condition",
+      "url": "https://www.healthline.com/health/anxiety"
+    }
+  },
+  {
+    "id": "21",
+    "text": "A fracture is a broken bone caused by trauma like falls, car accidents, or sports injuries. Types include open fractures (bone pierces skin), closed fractures, stress fractures (small cracks), and displaced fractures (misaligned bones). Symptoms are severe pain, swelling, bruising, deformity, and inability to move the affected area. Some hear a snap at the time of injury. Treatment varies: simple fractures heal with casts or splints for 6\u20138 weeks, while severe cases need surgery with pins, plates, or screws. Physical therapy restores strength and mobility post-healing. Complications like infections or nerve damage are possible but rare. Causes include high-impact injuries or weakened bones from osteoporosis. Prevention involves a calcium-rich diet (dairy, leafy greens), vitamin D (sunlight, fish), and exercises like jogging to strengthen bones. Fall-proofing homes (removing clutter, using non-slip mats) and wearing protective gear during sports reduce risks. Regular checkups, especially for older adults, help maintain bone health and catch issues early.",
+    "metadata": {
+      "title": "Fractures",
+      "source": "WebMD",
+      "category": "condition",
+      "url": "https://www.webmd.com/a-to-z-guides/understanding-fractures-basic-information"
+    }
+  },
+  {
+    "id": "22",
+    "text": "Brain tumors are abnormal cell growths in the brain, either benign (noncancerous) or malignant (cancerous). Symptoms depend on the tumor\u2019s size and location but include frequent headaches, seizures, nausea, vision or hearing loss, balance problems, memory issues, or personality changes like confusion or aggression. Causes are often unknown, but risk factors include radiation exposure, genetic disorders (e.g., neurofibromatosis), or family history. Treatment may involve surgery to remove the tumor, radiation to shrink it, or chemotherapy for cancerous types. Some small, benign tumors are monitored with regular MRIs if asymptomatic. Rehabilitation, including physical or speech therapy, helps recover lost skills. Complications include brain swelling or cognitive decline. Early diagnosis via imaging improves outcomes. Prevention is limited, but avoiding unnecessary radiation and regular checkups help. Support groups aid emotional coping, and advances in minimally invasive surgery improve recovery, offering hope for better quality of life post-treatment.",
+    "metadata": {
+      "title": "Brain Tumors",
+      "source": "WebMD",
+      "category": "condition",
+      "url": "https://www.webmd.com/cancer/brain-tumor"
+    }
+  },
+  {
+    "id": "23",
+    "text": "Diabetes is a chronic condition where the body struggles to control blood sugar due to insulin issues. Type 1 diabetes, often diagnosed in childhood, is an autoimmune disorder destroying insulin-producing cells, requiring daily insulin injections or pumps. Type 2 diabetes, more common in adults, involves insulin resistance linked to obesity, inactivity, or genetics. Symptoms include excessive thirst, frequent urination, hunger, fatigue, blurred vision, and slow-healing sores. Treatment for Type 1 focuses on insulin and blood sugar monitoring; Type 2 uses diet changes (low-carb, high-fiber foods), exercise, oral medications (metformin), or insulin. Complications include heart disease, kidney failure, or nerve damage if uncontrolled. Prevention involves maintaining a healthy weight, eating balanced meals (vegetables, lean proteins), and exercising 30 minutes most days. Regular doctor visits, A1C tests, and foot/eye exams catch issues early, helping patients manage diabetes effectively and live active, healthy lives with proper care.",
+    "metadata": {
+      "title": "Diabetes",
+      "source": "WebMD",
+      "category": "condition",
+      "url": "https://www.webmd.com/diabetes/default.htm"
+    }
+  },
+  {
+    "id": "24",
+    "text": "High blood pressure, or hypertension, forces blood against artery walls too strongly, stressing the heart and increasing risks for heart attack, stroke, kidney disease, and aneurysms. Often symptomless, it\u2019s detected through regular checks, though some experience headaches, dizziness, or shortness of breath. Causes include genetics, high salt intake, stress, smoking, obesity, and lack of exercise. Treatment emphasizes lifestyle changes: reducing salt (under 2300 mg daily), eating potassium-rich foods (bananas, spinach), exercising (brisk walking 150 minutes weekly), and quitting smoking. Medications like ACE inhibitors or diuretics help control pressure. Untreated hypertension damages blood vessels over time, leading to organ failure. Prevention involves stress reduction (meditation, deep breathing), limiting alcohol, and maintaining a healthy weight. Home blood pressure monitors track readings, ideally below 120/80 mmHg. Regular checkups and patient education ensure early intervention, helping individuals manage hypertension and reduce serious health risks effectively.",
+    "metadata": {
+      "title": "Hypertension",
+      "source": "WebMD",
+      "category": "condition",
+      "url": "https://www.webmd.com/hypertension-high-blood-pressure/default.htm"
+    }
+  },
+  {
+    "id": "25",
+    "text": "Asthma is a long-term lung condition where airways become inflamed and narrow, causing breathing difficulties. Symptoms include wheezing, persistent coughing (especially at night), shortness of breath, and chest tightness, often triggered by allergens (pollen, dust mites), smoke, cold air, exercise, or stress. Severe attacks can be life-threatening, requiring immediate care. Treatment uses quick-relief inhalers (albuterol) for attacks and daily controller inhalers (corticosteroids) to prevent symptoms. Avoiding triggers\u2014using air purifiers, avoiding pets, or quitting smoking\u2014is essential. Severe asthma may need oral steroids or biologics. An asthma action plan, created with a doctor, outlines medications and emergency steps. Untreated asthma can scar lungs, reducing function. Prevention includes flu shots, regular exercise to strengthen lungs, and maintaining a healthy weight. Peak flow meters monitor lung function at home. Regular pulmonologist visits ensure tailored treatment, helping patients breathe easier, avoid hospitalizations, and maintain active lifestyles with proper management.",
+    "metadata": {
+      "title": "Asthma",
+      "source": "WebMD",
+      "category": "condition",
+      "url": "https://www.webmd.com/asthma/default.htm"
+    }
+  },
+  {
+    "id": "26",
+    "text": "Depression is a mental health disorder causing prolonged sadness, emptiness, and loss of interest in activities. Symptoms include low energy, trouble sleeping or oversleeping, appetite changes, irritability, difficulty concentrating, and feelings of worthlessness or guilt. Severe cases may involve suicidal thoughts. Causes include genetics, life events (loss, trauma), chronic stress, or brain chemistry imbalances. Treatment involves psychotherapy (cognitive behavioral therapy or talk therapy) to address negative thoughts, and antidepressants (SSRIs like fluoxetine) to stabilize mood. Lifestyle changes\u2014exercise (30 minutes daily), healthy diets, and social engagement\u2014improve symptoms. Support groups offer shared experiences and coping tips. Untreated depression can lead to substance abuse or physical health issues like heart disease. Prevention includes building resilience, practicing mindfulness, and seeking help early. Regular mental health screenings and open discussions with loved ones help identify issues, enabling effective management that restores joy, productivity, and connections for most patients.",
+    "metadata": {
+      "title": "Depression",
+      "source": "WebMD",
+      "category": "condition",
+      "url": "https://www.webmd.com/depression/default.htm"
+    }
+  },
+  {
+    "id": "27",
+    "text": "Arthritis causes joint inflammation, leading to pain, swelling, and stiffness that can limit movement. Osteoarthritis results from cartilage breakdown due to aging or injury, while rheumatoid arthritis is an autoimmune disorder attacking joints, causing warmth and deformity. Symptoms include morning stiffness, reduced range of motion, and fatigue, often affecting hands, knees, or hips. Causes include genetics, obesity, joint overuse, or infections. Treatment uses pain relievers (acetaminophen), anti-inflammatory drugs (NSAIDs), or DMARDs for rheumatoid arthritis. Physical therapy improves joint function, and surgery (joint replacement) helps severe cases. Lifestyle changes\u2014low-impact exercise (cycling, swimming), weight loss, and hot/cold packs\u2014ease discomfort. Untreated arthritis can cause permanent joint damage. Prevention involves protecting joints (avoiding repetitive strain), staying active, and eating anti-inflammatory foods (fish, nuts). Regular rheumatologist visits and early treatment slow progression, helping patients maintain mobility and reduce pain for better daily functioning.",
+    "metadata": {
+      "title": "Arthritis",
+      "source": "WebMD",
+      "category": "condition",
+      "url": "https://www.webmd.com/arthritis/default.htm"
+    }
+  },
+  {
+    "id": "28",
+    "text": "Heart disease includes conditions like coronary artery disease, heart failure, and arrhythmias, impairing heart function. Symptoms include chest pain (tightness or pressure), shortness of breath, fatigue, swelling in ankles, or palpitations. Causes involve blocked arteries (from cholesterol), high blood pressure, smoking, diabetes, or family history. Treatment includes lifestyle changes: eating low-fat, high-fiber foods (oats, berries), exercising 150 minutes weekly, and quitting smoking. Medications like statins reduce cholesterol, while anticoagulants prevent clots. Procedures like stents or bypass surgery restore blood flow. Untreated heart disease can cause heart attacks or sudden death. Prevention involves controlling blood sugar, monitoring cholesterol, and managing stress through relaxation techniques. Cardiac rehab programs support recovery with guided exercise and education. Regular cardiologist visits, EKGs, and stress tests detect issues early. Patient education and adherence to treatment plans significantly lower risks, improving heart health and longevity for those affected.",
+    "metadata": {
+      "title": "Heart Disease",
+      "source": "WebMD",
+      "category": "condition",
+      "url": "https://www.webmd.com/heart-disease/default.htm"
+    }
+  },
+  {
+    "id": "29",
+    "text": "Cancer is the uncontrolled growth of abnormal cells, forming tumors or spreading to other organs. Symptoms vary: fatigue, unexplained weight loss, pain, night sweats, or abnormal lumps (e.g., breast or lymph nodes). Causes include genetic mutations, smoking, excessive alcohol, UV radiation, or viruses like hepatitis. Treatment depends on cancer type: surgery removes localized tumors, chemotherapy or radiation targets widespread cells, and immunotherapy enhances immune response. Early detection through screenings (Pap smears, PSA tests) improves survival. Side effects like nausea or fatigue require supportive care (nutrition, counseling). Prevention includes quitting smoking, limiting processed meats, using sunscreen, and regular exercise. Genetic counseling identifies high-risk individuals. Untreated cancer can spread, becoming harder to treat. Support groups help patients navigate emotional and physical challenges. Advances in personalized medicine offer targeted treatments, improving outcomes and quality of life for many cancer patients with ongoing care.",
+    "metadata": {
+      "title": "Cancer",
+      "source": "WebMD",
+      "category": "condition",
+      "url": "https://www.webmd.com/cancer/default.htm"
+    }
+  },
+  {
+    "id": "30",
+    "text": "A stroke occurs when blood flow to the brain is interrupted by a clot (ischemic) or bleeding (hemorrhagic), damaging brain cells. Symptoms are sudden: one-sided weakness, slurred speech, vision loss, dizziness, or severe headache. Immediate treatment within 3\u20134 hours\u2014using clot-dissolving drugs or surgery\u2014can minimize damage. Causes include hypertension, smoking, obesity, atrial fibrillation, or high cholesterol. Rehabilitation involves physical therapy for mobility, speech therapy for communication, and occupational therapy for daily tasks. Long-term effects may include paralysis or cognitive issues. Prevention includes managing blood pressure (below 120/80 mmHg), quitting smoking, eating low-sodium diets, and exercising regularly. Medications like aspirin reduce clot risks. Regular checkups monitor heart health, and stroke survivors benefit from support groups for emotional recovery. Public awareness of FAST (Face drooping, Arm weakness, Speech difficulty, Time to call 911) ensures quick action, improving recovery chances and quality of life.",
+    "metadata": {
+      "title": "Stroke",
+      "source": "WebMD",
+      "category": "condition",
+      "url": "https://www.webmd.com/stroke/default.htm"
+    }
+  },
+  {
+    "id": "31",
+    "text": "Obesity is excess body fat, defined by a BMI of 30 or higher, increasing risks for diabetes, heart disease, sleep apnea, and osteoarthritis. Symptoms include weight gain, fatigue, joint pain, and breathing difficulties during activity. Causes involve high-calorie diets (fast food, sugary drinks), sedentary habits, genetics, hormonal conditions (hypothyroidism), or stress-related overeating. Treatment focuses on sustainable weight loss: eating nutrient-dense foods (vegetables, lean proteins), exercising 150\u2013300 minutes weekly, and behavioral therapy to address eating habits. Medications or bariatric surgery help severe cases. Untreated obesity can shorten life expectancy and worsen mental health. Prevention includes balanced meals, limiting screen time, and encouraging active hobbies (cycling, dancing). Regular checkups monitor related conditions like hypertension. Support groups or dietitians provide motivation, helping patients set realistic goals. With consistent effort, weight loss improves energy, mobility, and self-esteem, significantly reducing health risks and enhancing overall well-being.",
+    "metadata": {
+      "title": "Obesity",
+      "source": "WebMD",
+      "category": "condition",
+      "url": "https://www.webmd.com/obesity/default.htm"
+    }
+  },
+  {
+    "id": "32",
+    "text": "Allergies are immune system reactions to substances like pollen, mold, pet dander, or foods (nuts, shellfish), ranging from mild to life-threatening. Symptoms include sneezing, runny nose, itchy eyes, hives, swelling, or, in severe cases, anaphylaxis (difficulty breathing, throat swelling). Causes include genetics, environmental factors, or early exposure to allergens. Treatment involves avoiding triggers\u2014using air filters, washing bedding in hot water, or reading food labels. Antihistamines (loratadine) relieve mild symptoms, while epinephrine (EpiPen) treats anaphylaxis. Allergy shots (immunotherapy) reduce sensitivity over years. Untreated allergies can worsen asthma or lead to sinus infections. Prevention includes minimizing exposure (closing windows during pollen season), breastfeeding infants to boost immunity, and regular cleaning to reduce dust. Allergy testing pinpoints triggers, and patients should carry emergency medications if at risk. Regular allergist visits ensure effective management, improving comfort and safety, especially for children or those with severe reactions.",
+    "metadata": {
+      "title": "Allergies",
+      "source": "WebMD",
+      "category": "condition",
+      "url": "https://www.webmd.com/allergies/default.htm"
+    }
+  },
+  {
+    "id": "33",
+    "text": "Migraines are intense, pulsating headaches, often one-sided, lasting hours to days. Symptoms include nausea, vomiting, sensitivity to light, sound, or smells, and aura (flashing lights or tingling). Triggers include stress, hormonal fluctuations (menstruation), sleep changes, caffeine, or foods like red wine. Causes may involve genetics or abnormal brain activity. Treatment uses over-the-counter drugs (aspirin, ibuprofen) for mild migraines, while triptans (sumatriptan) or CGRP inhibitors treat severe cases. Preventive drugs (beta-blockers) reduce frequency for chronic sufferers. Lifestyle changes\u2014consistent sleep, hydration, and stress reduction (meditation, exercise)\u2014minimize attacks. A headache diary tracks triggers, aiding management. Untreated migraines disrupt work and social life, sometimes leading to medication overuse headaches. Prevention includes avoiding known triggers and maintaining routines. Neurologist consultations ensure tailored treatment, and relaxation techniques like biofeedback improve control, helping patients reduce migraine frequency and severity for better daily functioning.",
+    "metadata": {
+      "title": "Migraines",
+      "source": "WebMD",
+      "category": "condition",
+      "url": "https://www.webmd.com/migraines-headaches/default.htm"
+    }
+  },
+  {
+    "id": "34",
+    "text": "Thyroid disorders disrupt the thyroid gland\u2019s hormone production, affecting metabolism, energy, and organ function. Hypothyroidism (low hormones) causes fatigue, weight gain, dry skin, hair loss, constipation, and feeling cold. Hyperthyroidism (excess hormones) leads to weight loss, anxiety, rapid heartbeat, sweating, and heat intolerance. Causes include autoimmune conditions (Hashimoto\u2019s, Graves\u2019), iodine imbalance, or thyroid inflammation. Symptoms may include goiter or mood changes. Treatment for hypothyroidism uses levothyroxine to restore hormone levels; hyperthyroidism may need antithyroid drugs, radioactive iodine to shrink the gland, or surgery. Regular blood tests ensure proper dosing. Untreated disorders can cause heart issues, infertility, or osteoporosis. Prevention involves adequate iodine (fish, dairy), stress management, and avoiding excessive soy. Regular checkups, especially for those with family history, catch issues early. Patients benefit from dietary adjustments and support groups, improving energy, weight control, and overall health with consistent medical care.",
+    "metadata": {
+      "title": "Thyroid Disorders",
+      "source": "WebMD",
+      "category": "condition",
+      "url": "https://www.webmd.com/women/thyroid-problems"
+    }
+  },
+  {
+    "id": "35",
+    "text": "Osteoporosis weakens bones, making them fragile and prone to fractures, especially in the spine, hips, or wrists. Common in older women post-menopause due to estrogen loss, it also affects men. Symptoms are silent until fractures occur, though some notice back pain, height loss, or a hunched posture. Causes include aging, low calcium/vitamin D, smoking, excessive alcohol, or long-term steroid use. Treatment uses bisphosphonates (alendronate) to slow bone loss, calcium (1200 mg daily), and vitamin D supplements. Weight-bearing exercises (walking, strength training) and balance activities (tai chi) prevent falls. Untreated osteoporosis can cause chronic pain or disability. Prevention involves a bone-healthy diet, quitting smoking, limiting alcohol, and regular exercise. Bone density tests (DXA scans) monitor risks in those over 65. Home safety measures (grab bars, good lighting) reduce fall risks, helping patients maintain independence and reduce fracture-related complications.",
+    "metadata": {
+      "title": "Osteoporosis",
+      "source": "WebMD",
+      "category": "condition",
+      "url": "https://www.webmd.com/osteoporosis/default.htm"
+    }
+  },
+  {
+    "id": "36",
+    "text": "Pneumonia is an infection inflaming the lungs\u2019 air sacs, caused by bacteria (Streptococcus pneumoniae), viruses, or fungi. Symptoms include cough with mucus, high fever, chills, chest pain when breathing, shortness of breath, fatigue, and confusion in older adults. Risk factors include smoking, chronic conditions (heart disease, diabetes), or recent colds. Bacterial pneumonia is treated with antibiotics (azithromycin); viral cases often resolve with rest and fluids, though antivirals may help. Severe cases need hospitalization for IV antibiotics or oxygen. Complications include respiratory failure or sepsis. Prevention involves pneumococcal and flu vaccines, quitting smoking, and frequent handwashing to avoid germs. A healthy diet and exercise boost immunity. Patients should complete antibiotic courses and avoid spreading infection by covering coughs. Regular checkups, especially for high-risk groups, ensure early treatment, reducing recovery time and preventing serious outcomes, particularly in children or the elderly.",
+    "metadata": {
+      "title": "Pneumonia",
+      "source": "WebMD",
+      "category": "condition",
+      "url": "https://www.webmd.com/lung/understanding-pneumonia-basics"
+    }
+  },
+  {
+    "id": "37",
+    "text": "Kidney stones are hard deposits of minerals, often calcium oxalate, forming in the kidneys and causing excruciating pain when passing. Symptoms include sharp pain in the back, side, or lower abdomen, blood in urine, nausea, vomiting, and urgent urination. Causes include dehydration, high-sodium or high-oxalate diets (spinach, chocolate), obesity, or family history. Treatment involves pain relievers (NSAIDs), increased water intake (2\u20133 liters daily) to pass small stones, and medications to ease passage. Large stones may need lithotripsy (sound waves to break stones) or surgical removal. Untreated stones can cause infections or kidney damage. Prevention includes staying hydrated, reducing salt and animal protein, and eating calcium-rich foods (milk, yogurt) to bind oxalates. Regular checkups and urine analysis monitor recurrence, common in 50% of patients. Dietary adjustments and consistent hydration lower risks, ensuring better kidney health and fewer painful episodes over time.",
+    "metadata": {
+      "title": "Kidney Stones",
+      "source": "WebMD",
+      "category": "condition",
+      "url": "https://www.webmd.com/kidney-stones/default.htm"
+    }
+  },
+  {
+    "id": "38",
+    "text": "Gallstones are hardened deposits, often cholesterol-based, in the gallbladder, which stores bile for digestion. Symptoms include sudden pain in the upper right abdomen or center, nausea, vomiting, fever, or jaundice if stones block bile ducts. Some gallstones are silent, causing no issues. Causes include high-cholesterol diets, obesity, diabetes, rapid weight loss, or genetics (more common in women). Treatment often involves laparoscopic cholecystectomy to remove the gallbladder, a safe procedure with quick recovery. Medications like chenodiol dissolve small stones over months. Untreated gallstones can cause gallbladder inflammation, infections, or pancreatitis. Prevention includes a low-fat diet (lean meats, vegetables), gradual weight loss, and regular exercise. Ultrasounds detect stones early, especially in high-risk groups. Post-surgery, most patients digest normally, though some avoid greasy foods to prevent diarrhea. Regular checkups ensure no complications, maintaining digestive health and comfort long-term.",
+    "metadata": {
+      "title": "Gallstones",
+      "source": "WebMD",
+      "category": "condition",
+      "url": "https://www.webmd.com/digestive-disorders/gallstones"
+    }
+  },
+  {
+    "id": "39",
+    "text": "Eczema, or atopic dermatitis, causes red, itchy, and inflamed skin patches, often on the elbows, knees, or face. Symptoms include dry, scaly skin, intense itching (especially at night), and sores from scratching, with flares triggered by stress, allergens (dust, pollen), soaps, or cold weather. Causes involve genetics, a faulty skin barrier, and immune overactivity. Treatment uses emollients (petroleum jelly) to hydrate skin, topical steroids (hydrocortisone) to reduce inflammation, and antihistamines for itching. Avoiding triggers\u2014using fragrance-free products, cotton clothing, and humidifiers\u2014helps control flares. Severe cases may need phototherapy or oral medications. Untreated eczema can cause infections or emotional distress from appearance. Prevention includes daily moisturizing, gentle bathing, and stress reduction. Patch testing identifies allergens, and dermatologist visits tailor treatment. Support groups share coping tips, and consistent skincare routines reduce flare frequency, improving comfort and confidence for patients, especially children with this chronic condition.",
+    "metadata": {
+      "title": "Eczema",
+      "source": "WebMD",
+      "category": "condition",
+      "url": "https://www.webmd.com/skin-problems-and-treatments/eczema/default.htm"
+    }
+  },
+  {
+    "id": "40",
+    "text": "Anxiety disorders cause persistent, excessive fear or worry, disrupting work, relationships, and daily life. Types include generalized anxiety, panic disorder (sudden panic attacks), and social phobia. Symptoms are physical (racing heart, sweating, trembling) and mental (restlessness, irritability, trouble sleeping, or concentrating). Causes include genetics, stressful events (job loss, trauma), or brain chemistry issues. Treatment uses cognitive behavioral therapy (CBT) to challenge anxious thoughts, medications (SSRIs like sertraline), and relaxation techniques (deep breathing, progressive muscle relaxation). Lifestyle changes\u2014exercise (30 minutes daily), limiting caffeine, and good sleep hygiene\u2014ease symptoms. Untreated anxiety can lead to depression or chronic stress-related illnesses. Prevention involves building coping skills, maintaining social connections, and practicing mindfulness. Regular therapy sessions and mental health checkups catch early signs, helping patients develop strategies to manage triggers. Support groups offer shared experiences, and with treatment, most people regain control, improving emotional well-being and functionality in daily activities.",
+    "metadata": {
+      "title": "Anxiety Disorders",
+      "source": "WebMD",
+      "category": "condition",
+      "url": "https://www.webmd.com/anxiety-panic/default.htm"
+    }
+  },
+  {
+    "id": "41",
+    "text": "Fractures are breaks or cracks in bones, often from high-impact injuries like falls, sports accidents, or car crashes, or from overuse causing stress fractures. Symptoms include sharp pain, swelling, bruising, deformity, and difficulty moving the affected area, sometimes with a snapping sound at injury. Types range from simple (clean break) to complex (shattered bone). Treatment involves immobilization with casts or splints for weeks, or surgery with hardware (pins, plates) for severe cases. Physical therapy aids recovery, restoring strength and flexibility. Causes include trauma or weakened bones from conditions like osteoporosis. Complications like infections or delayed healing are rare but serious. Prevention focuses on bone health: eating calcium-rich foods (dairy, broccoli), getting vitamin D (sunlight, supplements), and doing weight-bearing exercises (running, dancing). Fall prevention\u2014using handrails, wearing sturdy shoes\u2014reduces risks, especially for older adults. Regular bone density tests and checkups ensure early intervention, supporting strong bones and faster recovery post-injury.",
+    "metadata": {
+      "title": "Fractures",
+      "source": "PubMedCentral",
+      "category": "review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3466598/"
+    }
+  },
+  {
+    "id": "42",
+    "text": "Brain tumors are abnormal cell growths in the brain, either benign (slow-growing, noncancerous) or malignant (fast-growing, cancerous). Symptoms vary by location: headaches (often worse in the morning), seizures, nausea, vision or hearing changes, weakness, memory loss, or behavioral shifts like irritability. Causes are unclear but include genetic mutations, radiation exposure, or hereditary syndromes. Treatment involves surgery to remove tumors, radiation to target remaining cells, or chemotherapy for aggressive cancers. Small, benign tumors may be monitored with imaging if asymptomatic. Rehabilitation, including physical or cognitive therapy, helps regain functions. Complications like brain swelling or seizures require ongoing care. Early detection via MRI improves prognosis. Prevention is limited, but avoiding environmental toxins and regular checkups help. Research into targeted therapies offers hope for less invasive treatments. Support groups provide emotional and practical support, helping patients and families navigate diagnosis, treatment, and recovery, improving quality of life significantly.",
+    "metadata": {
+      "title": "Brain Tumors",
+      "source": "PubMedCentral",
+      "category": "review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4058754/"
+    }
+  },
+  {
+    "id": "43",
+    "text": "Diabetes is a chronic condition impairing blood sugar control due to insulin deficiency or resistance. Type 1 diabetes, an autoimmune disease, destroys insulin-producing cells, requiring lifelong insulin therapy. Type 2 diabetes, linked to obesity and genetics, involves insulin resistance and is more common. Symptoms include excessive thirst, frequent urination, fatigue, weight loss, blurred vision, and slow-healing wounds. Treatment for Type 1 uses insulin injections or pumps; Type 2 involves lifestyle changes (low-carb diet, exercise), medications (metformin), or insulin. Complications include heart disease, kidney failure, neuropathy, or vision loss if uncontrolled. Prevention focuses on healthy eating (whole grains, vegetables), regular physical activity (150 minutes weekly), and maintaining a healthy weight. Regular blood tests (A1C) and doctor visits monitor control and catch issues early. Patient education and support groups empower self-management, helping individuals avoid complications, maintain energy, and lead active lives with proper care and monitoring.",
+    "metadata": {
+      "title": "Diabetes",
+      "source": "PubMedCentral",
+      "category": "review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7146037/"
+    }
+  },
+  {
+    "id": "44",
+    "text": "Hypertension, or high blood pressure, is a condition where blood exerts excessive force on artery walls, increasing risks for heart attack, stroke, kidney disease, and vision loss. Often asymptomatic, it\u2019s detected through routine checks, though some experience headaches, dizziness, or chest pain. Causes include genetics, high-sodium diets, stress, smoking, obesity, and aging. Treatment involves lifestyle changes: reducing salt intake, eating potassium-rich foods (potatoes, avocados), exercising (30 minutes most days), and stress reduction (mindfulness, yoga). Medications like diuretics or ARBs lower pressure. Untreated hypertension can damage organs, leading to heart failure or aneurysms. Prevention includes maintaining a healthy weight, limiting alcohol, and quitting smoking. Home monitoring with blood pressure cuffs ensures readings stay below 120/80 mmHg. Regular checkups and adherence to treatment plans are vital for control. Patient education and support from healthcare providers help manage hypertension, reducing serious health risks and improving long-term outcomes significantly.",
+    "metadata": {
+      "title": "Hypertension",
+      "source": "PubMedCentral",
+      "category": "review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6477925/"
+    }
+  },
+  {
+    "id": "45",
+    "text": "Asthma is a chronic respiratory condition causing airway inflammation and narrowing, leading to breathing difficulties. Symptoms include wheezing, coughing (worse at night), shortness of breath, and chest tightness, triggered by allergens (dust, pollen), infections, exercise, or stress. Severe attacks can be life-threatening, requiring urgent care. Treatment uses quick-relief inhalers (albuterol) for immediate relief and maintenance inhalers (steroids) to prevent symptoms. Avoiding triggers\u2014using HEPA filters, avoiding smoke, or managing pets\u2014reduces flares. Severe cases may need biologics or oral steroids. An asthma action plan outlines medications and emergency steps. Untreated asthma can cause permanent lung damage. Prevention includes vaccinations (flu, pneumonia), regular exercise to strengthen lungs, and maintaining a healthy diet. Peak flow monitoring tracks lung function. Regular pulmonologist visits ensure personalized care, helping patients manage symptoms, avoid hospitalizations, and maintain active lifestyles with fewer disruptions from this chronic condition.",
+    "metadata": {
+      "title": "Asthma",
+      "source": "PubMedCentral",
+      "category": "review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6157154/"
+    }
+  },
+  {
+    "id": "46",
+    "text": "Depression is a mental health condition causing persistent low mood, hopelessness, and disinterest in life. Symptoms include fatigue, sleep disturbances (insomnia or hypersomnia), appetite changes, difficulty concentrating, irritability, and feelings of guilt or worthlessness. Severe cases may involve suicidal thoughts. Causes include genetic predisposition, traumatic events, chronic stress, or neurotransmitter imbalances. Treatment combines psychotherapy (cognitive behavioral therapy) to reframe negative thoughts, antidepressants (SSRIs, SNRIs), and lifestyle changes like regular exercise and healthy eating (omega-3s, fruits). Support groups provide peer support and coping strategies. Untreated depression can lead to social isolation, substance abuse, or physical health issues like heart disease. Prevention involves stress management (meditation, journaling), strong social networks, and early intervention. Regular mental health screenings identify risks, and open communication with healthcare providers ensures effective treatment. With proper care, most patients experience significant improvement, regaining energy, purpose, and quality of life, though ongoing management may be necessary.",
+    "metadata": {
+      "title": "Depression",
+      "source": "PubMedCentral",
+      "category": "review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7351286/"
+    }
+  },
+  {
+    "id": "47",
+    "text": "Arthritis is a group of conditions causing joint inflammation, pain, and stiffness, impacting mobility. Osteoarthritis results from cartilage breakdown due to aging or overuse, while rheumatoid arthritis is an autoimmune disease attacking joint linings. Symptoms include joint swelling, warmth, morning stiffness, and reduced movement, often in hands, knees, or spine. Causes include genetics, injuries, obesity, or infections. Treatment uses analgesics (acetaminophen), NSAIDs, or biologics for autoimmune types. Physical therapy strengthens joints, and surgery (joint replacement) helps severe cases. Lifestyle changes\u2014low-impact exercise (swimming), weight loss, and anti-inflammatory diets (berries, fish)\u2014reduce symptoms. Untreated arthritis can cause joint deformity or disability. Prevention involves maintaining a healthy weight, avoiding repetitive joint stress, and staying active. Regular rheumatologist visits and imaging (X-rays) monitor progression. Early treatment slows damage, helping patients stay active, reduce pain, and maintain independence with tailored management plans.",
+    "metadata": {
+      "title": "Arthritis",
+      "source": "PubMedCentral",
+      "category": "review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4996265/"
+    }
+  },
+  {
+    "id": "48",
+    "text": "Heart disease encompasses conditions like coronary artery disease, heart failure, and arrhythmias, impairing heart function. Symptoms include chest pain, shortness of breath, fatigue, leg swelling, or irregular heartbeats. Causes involve atherosclerosis (artery narrowing), hypertension, smoking, diabetes, or genetics. Treatment includes lifestyle changes: eating heart-healthy foods (salmon, nuts), exercising 150 minutes weekly, and quitting smoking. Medications like statins lower cholesterol, while beta-blockers manage heart rate. Procedures like angioplasty or bypass surgery restore blood flow. Untreated heart disease can lead to heart attacks or heart failure. Prevention involves controlling blood pressure, monitoring cholesterol, and stress reduction (yoga, meditation). Cardiac rehab programs combine exercise and education for recovery. Regular checkups, including EKGs and blood tests, detect early signs. Patient adherence to treatment plans and lifestyle changes significantly reduces risks, improving heart function, energy, and longevity, especially with ongoing medical support and monitoring.",
+    "metadata": {
+      "title": "Heart Disease",
+      "source": "PubMedCentral",
+      "category": "review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6616540/"
+    }
+  },
+  {
+    "id": "49",
+    "text": "Cancer involves abnormal cell growth, forming tumors or spreading (metastasis) to other organs. Symptoms depend on cancer type but include fatigue, unintended weight loss, persistent pain, lumps, night sweats, or changes in skin or bowel habits. Causes include genetic mutations, smoking, excessive alcohol, UV exposure, poor diet, or infections (HPV, hepatitis). Treatment varies: surgery removes localized tumors, chemotherapy or radiation targets widespread cancer, and immunotherapy boosts immune defenses. Early detection through screenings (mammograms, colonoscopies) improves survival rates. Side effects like hair loss or nausea are managed with supportive care (nutrition, anti-nausea drugs). Prevention involves quitting smoking, eating a plant-based diet, using sunscreen, and regular exercise. Genetic testing identifies high-risk individuals. Untreated cancer can become life-threatening. Support groups and counseling help patients cope, and advances in precision medicine offer tailored treatments, improving outcomes and quality of life for many.",
+    "metadata": {
+      "title": "Cancer",
+      "source": "PubMedCentral",
+      "category": "review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7131453/"
+    }
+  },
+  {
+    "id": "50",
+    "text": "A stroke occurs when blood flow to the brain is blocked (ischemic) or a vessel bursts (hemorrhagic), causing brain damage. Symptoms are sudden: facial drooping, arm weakness, slurred speech, vision loss, dizziness, or severe headache. Immediate treatment\u2014clot-busting drugs (tPA) or surgery within hours\u2014can save lives and limit damage. Causes include high blood pressure, smoking, diabetes, obesity, or irregular heart rhythms (atrial fibrillation). Rehabilitation involves physical therapy for mobility, speech therapy for communication, and occupational therapy for daily tasks. Long-term effects may include paralysis or memory loss. Prevention includes controlling blood pressure, quitting smoking, eating low-fat diets (fruits, whole grains), and exercising regularly. Anticoagulants reduce clot risks. Regular checkups monitor heart health, and stroke survivors benefit from support groups. Public awareness of FAST (Face, Arm, Speech, Time) ensures quick action, improving recovery and reducing disability with proper care.",
+    "metadata": {
+      "title": "Stroke",
+      "source": "PubMedCentral",
+      "category": "review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6710013/"
+    }
+  },
+  {
+    "id": "51",
+    "text": "Obesity is excess body fat, often measured by a BMI of 30 or higher, increasing risks for diabetes, heart disease, sleep apnea, and joint problems. Symptoms include weight gain, fatigue, shortness of breath, and joint pain from added stress. Causes include high-calorie diets, lack of physical activity, genetics, hormonal disorders (e.g., hypothyroidism), or emotional factors like stress eating. Treatment involves gradual weight loss through balanced diets (high in vegetables, low in sugars), regular exercise (150\u2013300 minutes weekly), and behavioral therapy to change eating habits. Medications or bariatric surgery (gastric sleeve) help severe cases. Untreated obesity can lead to reduced life expectancy or mental health issues. Prevention includes healthy eating habits, limiting processed foods, and staying active. Regular checkups monitor related conditions, and support from dietitians or groups aids motivation. Weight loss improves mobility, energy, and confidence, significantly lowering health risks with sustained effort.",
+    "metadata": {
+      "title": "Obesity",
+      "source": "PubMedCentral",
+      "category": "review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6079362/"
+    }
+  },
+  {
+    "id": "52",
+    "text": "Allergies are immune system overreactions to substances like pollen, dust mites, foods (eggs, shellfish), or medications. Symptoms range from sneezing, itchy eyes, runny nose, and rashes to severe anaphylaxis, causing breathing difficulties or swelling. Causes include genetics, environmental exposures, or immune system dysfunction. Treatment involves avoiding triggers (e.g., using dust-proof bedding, avoiding pets), taking antihistamines (cetirizine), or using nasal sprays. Epinephrine auto-injectors treat life-threatening reactions. Immunotherapy (allergy shots) reduces sensitivity over time. Untreated allergies can worsen asthma or cause chronic sinusitis. Prevention includes reducing allergen exposure (closing windows, regular cleaning), breastfeeding infants to boost immunity, and avoiding known triggers. Allergy testing identifies specific culprits, and patients with severe allergies should carry emergency medications. Regular allergist visits ensure effective management, improving quality of life by reducing symptoms and preventing serious reactions, especially in children or high-risk individuals.",
+    "metadata": {
+      "title": "Allergies",
+      "source": "PubMedCentral",
+      "category": "review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6163526/"
+    }
+  },
+  {
+    "id": "53",
+    "text": "Migraines are severe headaches causing throbbing pain, often on one side, lasting hours to days. Symptoms include nausea, vomiting, sensitivity to light, sound, or smells, and aura (visual or sensory disturbances). Triggers include stress, hormonal changes, sleep disruptions, caffeine, or foods (aged cheeses, MSG). Causes may involve genetics or altered brain activity. Treatment uses pain relievers (ibuprofen) for mild attacks, triptans (rizatriptan) for severe ones, and preventive drugs (topiramate) for frequent migraines. Lifestyle changes\u2014regular sleep, hydration, and stress management (yoga, relaxation)\u2014reduce attacks. A headache diary helps identify triggers. Untreated migraines can lead to chronic pain or medication overuse. Prevention involves consistent routines, avoiding triggers, and managing stress. Neurologist visits ensure tailored treatment, and techniques like biofeedback help control symptoms. With proper management, patients experience fewer migraines, improving work, social life, and overall well-being significantly.",
+    "metadata": {
+      "title": "Migraines",
+      "source": "PubMedCentral",
+      "category": "review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5739430/"
+    }
+  },
+  {
+    "id": "54",
+    "text": "Thyroid disorders affect hormone production, disrupting metabolism and body functions. Hypothyroidism (low thyroid hormones) causes fatigue, weight gain, dry skin, hair loss, constipation, and cold sensitivity. Hyperthyroidism (excess hormones) leads to weight loss, anxiety, rapid heartbeat, sweating, and heat intolerance. Causes include autoimmune diseases (Hashimoto\u2019s, Graves\u2019), iodine deficiency, or thyroid nodules. Symptoms may include goiter or irregular periods. Treatment for hypothyroidism uses levothyroxine to replace hormones; hyperthyroidism may involve antithyroid drugs, radioactive iodine, or surgery. Regular blood tests monitor hormone levels. Untreated disorders can cause heart problems, infertility, or bone loss. Prevention includes adequate iodine intake (seafood, iodized salt), stress management, and regular checkups, especially for those with family history. Patients benefit from dietary adjustments (avoiding excessive soy) and support groups, improving energy, mood, and overall health with consistent medical care and monitoring to prevent complications.",
+    "metadata": {
+      "title": "Thyroid Disorders",
+      "source": "PubMedCentral",
+      "category": "review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6822815/"
+    }
+  },
+  {
+    "id": "55",
+    "text": "Osteoporosis is a condition where bones lose density, becoming fragile and prone to fractures, especially in the hips, spine, or wrists. Common in older adults, particularly postmenopausal women, it\u2019s often asymptomatic until a fracture occurs, though some notice back pain or a stooped posture. Causes include aging, low calcium/vitamin D, hormonal changes, smoking, or prolonged steroid use. Treatment uses medications like bisphosphonates to strengthen bones, calcium (1200 mg daily), and vitamin D supplements. Weight-bearing exercises (jogging, dancing) and balance training (yoga) improve bone health and reduce fall risks. Untreated osteoporosis can lead to chronic pain, disability, or height loss. Prevention involves a nutrient-rich diet, quitting smoking, limiting alcohol, and regular exercise. Bone density scans (DXA) monitor risks in those over 65. Home safety measures (removing tripping hazards) and regular checkups help maintain mobility, preventing fractures and supporting independence in daily life.",
+    "metadata": {
+      "title": "Osteoporosis",
+      "source": "PubMedCentral",
+      "category": "review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5335887/"
+    }
+  },
+  {
+    "id": "56",
+    "text": "Pneumonia is a lung infection caused by bacteria, viruses, or fungi, inflaming air sacs and causing cough, fever, and breathing difficulties. Symptoms include productive cough (mucus), high fever, chills, chest pain, shortness of breath, fatigue, and confusion, especially in older adults. Risk factors include smoking, chronic illnesses (COPD, diabetes), or weakened immunity. Bacterial pneumonia is treated with antibiotics (levofloxacin); viral cases often resolve with rest, though antivirals may help. Severe cases require hospitalization for oxygen or IV fluids. Complications include sepsis or lung abscesses. Prevention involves vaccinations (pneumococcal, flu), quitting smoking, and good hygiene (handwashing). A healthy diet and exercise strengthen immunity. Patients should rest, stay hydrated, and complete treatments to prevent relapse. Regular checkups, especially for high-risk groups, ensure early intervention, reducing recovery time and preventing severe outcomes, particularly in vulnerable populations like the elderly or immunocompromised.",
+    "metadata": {
+      "title": "Pneumonia",
+      "source": "PubMedCentral",
+      "category": "review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7119324/"
+    }
+  },
+  {
+    "id": "57",
+    "text": "Kidney stones are hard deposits of minerals, often calcium or uric acid, forming in the kidneys and causing severe pain when moving through the urinary tract. Symptoms include intense pain in the back, side, or groin, blood in urine, nausea, vomiting, and frequent or painful urination. Causes include dehydration, high-sodium or high-protein diets, obesity, genetics, or conditions like hyperparathyroidism. Treatment involves pain relievers (ibuprofen), hydration (2\u20133 liters daily) to pass small stones, and medications to ease passage. Larger stones may need lithotripsy or surgery. Untreated stones can cause infections or kidney damage. Prevention includes drinking plenty of water, reducing salt and oxalate-rich foods (nuts, tea), and maintaining a balanced diet. Regular checkups and urine tests monitor recurrence risks, common in many patients. Consistent hydration and dietary changes significantly lower the chance of new stones, improving kidney health and comfort long-term.",
+    "metadata": {
+      "title": "Kidney Stones",
+      "source": "PubMedCentral",
+      "category": "review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5685519/"
+    }
+  },
+  {
+    "id": "58",
+    "text": "Gallstones are hardened deposits, often cholesterol or bilirubin, in the gallbladder, which aids digestion. Symptoms include sudden, severe abdominal pain (right side or center), nausea, vomiting, fever, or jaundice if stones block bile ducts. Many gallstones cause no symptoms until a blockage occurs. Causes include high-fat diets, obesity, rapid weight loss, diabetes, or genetics, with women at higher risk. Treatment often involves laparoscopic surgery to remove the gallbladder, a common and low-risk procedure. Medications (ursodiol) may dissolve small stones over time. Untreated gallstones can lead to infections, gallbladder inflammation, or pancreatitis. Prevention includes a high-fiber, low-fat diet (vegetables, whole grains), gradual weight loss, and regular exercise. Ultrasounds detect stones early, especially in high-risk groups. Post-surgery, most patients resume normal diets, though some avoid fatty foods. Regular checkups ensure no complications, supporting digestive health and preventing recurrence.",
+    "metadata": {
+      "title": "Gallstones",
+      "source": "PubMedCentral",
+      "category": "review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8118130/"
+    }
+  },
+  {
+    "id": "59",
+    "text": "Eczema is a chronic skin condition causing red, itchy, and inflamed patches, often on the arms, legs, or face. Symptoms include dry, scaly skin, intense itching, and sores from scratching, with flares triggered by allergens (pollen, dust), irritants (soaps, wool), stress, or temperature changes. Causes involve genetics, immune system overactivity, and a weakened skin barrier. Treatment uses moisturizers (ceramide-based) to hydrate, topical steroids to reduce inflammation, and antihistamines for itching. Avoiding triggers\u2014using gentle, fragrance-free products and humidifiers\u2014controls flares. Severe cases may need immunosuppressants or phototherapy. Untreated eczema can lead to infections or sleep disturbances. Prevention includes daily skincare, stress reduction, and avoiding allergens. Patch testing identifies triggers, and dermatologist visits ensure tailored treatment. Support groups help patients cope with appearance-related stress, and consistent care reduces flare frequency, improving skin health and quality of life, especially for children with this lifelong condition.",
+    "metadata": {
+      "title": "Eczema",
+      "source": "PubMedCentral",
+      "category": "review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6517108/"
+    }
+  },
+  {
+    "id": "60",
+    "text": "Anxiety disorders cause excessive, uncontrollable worry or fear, affecting daily life. Types include generalized anxiety, panic disorder, and specific phobias. Symptoms are physical (rapid heartbeat, sweating, trembling) and psychological (restlessness, fatigue, trouble sleeping, or difficulty focusing). Causes include genetics, traumatic experiences, chronic stress, or brain chemistry imbalances. Treatment involves cognitive behavioral therapy (CBT) to manage anxious thoughts, medications (SSRIs like citalopram), and relaxation techniques (mindfulness, deep breathing). Lifestyle changes\u2014regular exercise, balanced diets, and good sleep\u2014reduce symptoms. Untreated anxiety can lead to depression, substance abuse, or chronic health issues. Prevention includes stress management (journaling, meditation), strong social support, and avoiding stimulants like caffeine. Regular mental health checkups and early intervention help patients develop coping skills. Support groups offer shared experiences, and with treatment, most people experience significant relief, improving relationships, work performance, and overall well-being, though ongoing strategies may be needed to manage triggers effectively.",
+    "metadata": {
+      "title": "Anxiety Disorders",
+      "source": "PubMedCentral",
+      "category": "review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6200828/"
+    }
+  },
+  {
+    "id": "61",
+    "text": "A fracture is a break or crack in a bone, often caused by trauma such as falls, car accidents, sports injuries, or high-impact collisions. Symptoms include intense, sharp pain that worsens with movement, swelling, bruising, tenderness, deformity (e.g., the limb appearing bent or out of place), and difficulty or inability to move the affected area. Some may hear a snapping sound at the time of injury. Fractures can also result from overuse, repetitive stress (stress fractures), or weakened bones due to conditions like osteoporosis or low bone density. Treatment typically involves immobilizing the bone with a cast or splint for 4\u20138 weeks, depending on the fracture\u2019s type and location. Severe or complex fractures may require surgical intervention, using plates, screws, or pins to align and stabilize the bone. Diagnosis is confirmed through a physical exam and imaging tests like X-rays, CT scans, or MRIs. Healing time varies, with children recovering faster than adults, and physical therapy often aids in restoring strength and mobility. Complications, though rare, include infections, nerve damage, or improper healing. To prevent fractures, maintain strong bones with a diet rich in calcium (dairy, leafy greens) and vitamin D (sunlight, fish), engage in weight-bearing exercises like walking or jogging, and treat conditions like osteoporosis. Fall prevention is key, especially for older adults\u2014remove tripping hazards, use handrails, wear supportive shoes, and be cautious on slippery surfaces. Regular bone density screenings help identify risks early, ensuring timely intervention to support bone health and reduce fracture likelihood.",
+    "metadata": {
+      "title": "Fractures",
+      "source": "MedlinePlus",
+      "category": "condition",
+      "url": "https://medlineplus.gov/fractures.html"
+    }
+  },
+  {
+    "id": "62",
+    "text": "Brain tumors are abnormal growths of cells in the brain, classified as benign (noncancerous, slow-growing) or malignant (cancerous, aggressive). Symptoms depend on the tumor\u2019s size, type, and location but often include persistent headaches (typically worse in the morning), nausea, vomiting, seizures, changes in speech, hearing, or vision, difficulty with balance or walking, confusion, memory loss, weakness, drowsiness, and mood or personality changes like irritability or aggression. Some tumors cause focal neurological deficits, such as limb weakness. Causes are not fully understood but may involve genetic mutations, radiation exposure, or hereditary syndromes like neurofibromatosis. Primary tumors originate in the brain, while metastatic tumors spread from other cancers (e.g., lung, breast). Treatment varies: small, benign tumors may be monitored with regular MRIs, while others require surgery to remove the tumor, radiation therapy to target cancer cells, or chemotherapy for aggressive cancers. Targeted therapies or immunotherapy may be used for specific tumor types. Diagnosis involves a neurologic exam, imaging (MRI, CT scans), and sometimes a biopsy to confirm tumor type. Complications include brain swelling, seizures, or cognitive decline, requiring ongoing management. While specific prevention strategies are limited, avoiding unnecessary radiation and maintaining regular health checkups can aid early detection. Rehabilitation, including physical, speech, or occupational therapy, helps recover lost functions post-treatment. Support groups provide emotional support, and advances in minimally invasive surgery and precision medicine improve outcomes, enhancing quality of life for patients and families.",
+    "metadata": {
+      "title": "Brain Tumors",
+      "source": "MedlinePlus",
+      "category": "condition",
+      "url": "https://medlineplus.gov/braincancer.html"
+    }
+  },
+  {
+    "id": "63",
+    "text": "Diabetes, or diabetes mellitus, is a chronic condition where blood glucose levels are excessively high due to problems with insulin, a hormone that regulates sugar use in cells. It includes Type 1 (autoimmune, destroying insulin-producing cells), Type 2 (insulin resistance, often lifestyle-related), and gestational diabetes (during pregnancy). Symptoms include extreme thirst, frequent urination (especially at night), hunger despite weight loss, fatigue, blurred vision, slow-healing sores, and numbness or tingling in hands or feet. Type 1 symptoms appear rapidly and severely, often in childhood, while Type 2 develops gradually with milder signs, and gestational diabetes may be asymptomatic, detected via pregnancy screening. Causes vary: Type 1 involves genetic and environmental triggers, Type 2 is linked to obesity, inactivity, and genetics, and gestational diabetes stems from hormonal changes and lifestyle factors. Treatment for Type 1 requires daily insulin via injections or pumps, sometimes with other medications. Type 2 management includes lifestyle changes (low-carb diet, exercise, weight loss), oral medications (e.g., metformin), or insulin. Gestational diabetes involves diet, exercise, and sometimes insulin, typically resolving post-delivery but increasing Type 2 risk. Complications include heart disease, kidney failure, neuropathy, and vision loss if uncontrolled. Prevention for Type 1 is not possible, but Type 2 and gestational diabetes can be delayed with a healthy diet (vegetables, whole grains), regular physical activity (30 minutes most days), and weight management. Regular blood sugar monitoring (A1C tests), foot exams, and eye checks prevent complications. Patient education and support groups empower self-management, improving energy and quality of life with consistent care.",
+    "metadata": {
+      "title": "Diabetes",
+      "source": "MedlinePlus",
+      "category": "condition",
+      "url": "https://medlineplus.gov/diabetes.html"
+    }
+  },
+  {
+    "id": "64",
+    "text": "Hypertension, or high blood pressure, is a condition where blood exerts excessive force against artery walls, often without symptoms, earning it the nickname \u2018silent killer.\u2019 It\u2019s diagnosed with multiple readings using a blood pressure cuff, categorized as Normal (<120/80 mmHg), Elevated (120\u2013129/<80 mmHg), Stage 1 (130\u2013139/80\u201389 mmHg), Stage 2 (\u2265140/\u226590 mmHg), or Hypertensive Crisis (>180/>120 mmHg, requiring immediate care). Symptoms, when present, may include headaches, dizziness, or nosebleeds. Primary (essential) hypertension develops gradually, influenced by genetics, high-sodium diets, stress, smoking, obesity, and aging. Secondary hypertension results from conditions like kidney disease or medications, improving with treatment of the cause. Untreated, it risks heart attack, stroke, heart failure, kidney damage, or vision loss. Treatment includes lifestyle changes: reducing salt (<2300 mg daily), eating potassium-rich foods (bananas, spinach), exercising (150 minutes weekly), quitting smoking, and managing stress (meditation). Medications like diuretics, ACE inhibitors, or beta-blockers are used if needed. Prevention mirrors treatment: maintain a healthy weight, limit alcohol, and monitor blood pressure regularly at home. Routine checkups ensure early detection, and patient education empowers control, reducing organ damage and enhancing long-term health with consistent management.",
+    "metadata": {
+      "title": "Hypertension",
+      "source": "MedlinePlus",
+      "category": "condition",
+      "url": "https://medlineplus.gov/highbloodpressure.html"
+    }
+  },
+  {
+    "id": "65",
+    "text": "Asthma is a chronic lung condition causing airway inflammation and narrowing, leading to breathing difficulties. Symptoms include wheezing (a whistling sound), coughing (often worse at night or early morning), shortness of breath, and chest tightness, ranging from mild to severe and occurring daily or sporadically. Triggers include allergens (pollen, dust mites, pet dander), irritants (smoke, pollution), cold air, exercise, or stress, varying by individual. Types include allergic, nonallergic, occupational (workplace chemicals), and exercise-induced asthma. The exact cause is unknown, combining genetic predisposition and environmental factors. Treatment involves avoiding triggers (e.g., quitting smoking, using air purifiers) and medications: quick-relief inhalers (albuterol) for attacks and daily controller inhalers (corticosteroids) to prevent symptoms. Severe cases may require biologics or bronchial thermoplasty, a procedure using heat to reduce airway muscle, though risks apply. An asthma action plan outlines medications and emergency steps. Untreated asthma can scar lungs, reducing function. Prevention includes flu/pneumonia vaccinations, maintaining a healthy weight, and managing allergies. Diagnosis uses lung function tests (spirometry), peak flow monitoring, and allergy testing. Regular pulmonologist visits tailor treatment, minimizing attacks and supporting active lifestyles with proper care.",
+    "metadata": {
+      "title": "Asthma",
+      "source": "MedlinePlus",
+      "category": "condition",
+      "url": "https://medlineplus.gov/asthma.html"
+    }
+  },
+  {
+    "id": "66",
+    "text": "Depression is a serious mood disorder causing persistent sadness, hopelessness, and disinterest in activities, impacting daily life, work, and relationships. Symptoms include low energy, sleep issues (insomnia or oversleeping), appetite changes (weight loss or gain), irritability, difficulty concentrating, feelings of worthlessness or guilt, and, in severe cases, suicidal thoughts. Types include major depression (lasting \u22652 weeks), persistent depressive disorder (dysthymia, \u22652 years), seasonal affective disorder (winter-related), bipolar disorder (mood swings), and psychotic depression (with delusions). Causes involve genetics, trauma, stress, or brain chemistry imbalances, with higher prevalence in women due to hormonal changes (menstruation, postpartum, menopause). It often co-occurs with diabetes or heart disease, worsening outcomes. Treatment includes psychotherapy (cognitive behavioral therapy) to reframe negative thoughts, antidepressants (SSRIs like sertraline), and light therapy for SAD. Severe cases may use electroconvulsive therapy (ECT) or transcranial magnetic stimulation (rTMS). Lifestyle changes\u2014exercise, healthy diet, social support\u2014aid recovery. Untreated depression risks substance abuse or health decline. Prevention involves stress management (meditation, yoga), strong social networks, and early help. Regular mental health screenings and support groups improve outcomes, restoring joy and functionality with consistent care.",
+    "metadata": {
+      "title": "Depression",
+      "source": "MedlinePlus",
+      "category": "condition",
+      "url": "https://medlineplus.gov/depression.html"
+    }
+  },
+  {
+    "id": "67",
+    "text": "Arthritis encompasses disorders affecting joints (e.g., knees, elbows), causing pain, stiffness, and reduced mobility, sometimes impacting organs like eyes or skin. Symptoms include joint pain, swelling, redness, warmth, morning stiffness, and limited range of motion, with some experiencing fever, weight loss, or rashes indicating systemic issues. Types include osteoarthritis (cartilage wear from aging/injury), rheumatoid arthritis (autoimmune), juvenile arthritis, psoriatic arthritis, gout (uric acid buildup), and ankylosing spondylitis (spine-focused). Causes vary: genetics, age, obesity, joint injuries, infections, or autoimmune conditions like lupus. Treatment depends on type: pain relievers (acetaminophen), anti-inflammatories (NSAIDs), disease-modifying drugs (DMARDs) for autoimmune types, or biologics. Physical/occupational therapy improves function; severe cases may need joint replacement. Diagnosis involves exams, blood tests, and imaging (X-rays). Untreated arthritis can cause deformity or disability. Prevention includes maintaining a healthy weight to reduce joint stress, low-impact exercise (swimming, yoga), and avoiding repetitive injuries. Anti-inflammatory diets (fish, nuts) help. Regular rheumatologist visits monitor progression, and assistive devices (braces) aid mobility, helping patients stay active and manage pain effectively.",
+    "metadata": {
+      "title": "Arthritis",
+      "source": "MedlinePlus",
+      "category": "condition",
+      "url": "https://medlineplus.gov/arthritis.html"
+    }
+  },
+  {
+    "id": "68",
+    "text": "Heart disease includes conditions like coronary artery disease, heart failure, arrhythmias, and valve disorders, affecting heart function and blood vessels. It\u2019s the leading cause of death in the U.S. Symptoms vary: chest pain (angina), shortness of breath, fatigue, leg swelling, palpitations, or none until a heart attack reveals it. Causes include atherosclerosis (artery narrowing), hypertension, smoking, diabetes, high cholesterol, genetics, or infections. Risk factors are age, male sex (women post-menopause), family history, and race (higher in African Americans). Treatment involves lifestyle changes: low-fat, high-fiber diet (oats, berries), 150 minutes weekly exercise, and smoking cessation. Medications (statins, beta-blockers) manage cholesterol or rhythm; procedures like stents or bypass surgery restore blood flow. Diagnosis uses EKGs, stress tests, and blood work; cardiologist referral is common. Untreated, it risks heart attack or sudden death. Prevention includes controlling blood pressure, cholesterol, and stress (meditation). Cardiac rehab aids recovery. Regular checkups and adherence to heart-healthy habits reduce risks, improving heart function and longevity with ongoing care.",
+    "metadata": {
+      "title": "Heart Disease",
+      "source": "MedlinePlus",
+      "category": "condition",
+      "url": "https://medlineplus.gov/heartdiseases.html"
+    }
+  },
+  {
+    "id": "69",
+    "text": "Cancer refers to over 100 diseases where abnormal cells grow uncontrollably, forming tumors or spreading (metastasis). Malignant tumors invade tissues; benign ones don\u2019t. Symptoms vary by type: lumps (breast, lymph nodes), weight loss, fatigue, pain, night sweats, skin changes, or abnormal bleeding (urine, stool). Causes include genetic mutations, smoking, alcohol, UV radiation, poor diet, or viruses (HPV). Risk increases with age as cell repair weakens. Treatment depends on type/stage: surgery removes tumors, chemotherapy/radiation kills cells, immunotherapy boosts immunity, or hormone therapy targets specific cancers. Early detection via screenings (mammograms, colonoscopies) improves survival. Side effects (nausea, hair loss) need supportive care. Diagnosis uses biopsies and imaging. Prevention includes quitting smoking, eating plant-based diets (fruits, vegetables), using sunscreen, limiting alcohol, and exercising. Genetic testing identifies risks. Untreated cancer can be fatal. Support groups aid coping, and precision medicine advances improve outcomes, enhancing quality of life with tailored care.",
+    "metadata": {
+      "title": "Cancer",
+      "source": "MedlinePlus",
+      "category": "condition",
+      "url": "https://medlineplus.gov/cancer.html"
+    }
+  },
+  {
+    "id": "70",
+    "text": "A stroke occurs when brain blood flow is interrupted, causing cell death within minutes from oxygen/nutrient loss, leading to brain damage, disability, or death. Types include ischemic (80%, clot-blocked vessel) and hemorrhagic (vessel rupture). Transient ischemic attacks (TIAs) are temporary blockages increasing stroke risk. Symptoms are sudden: facial drooping, one-sided weakness (arm/leg), slurred speech, vision loss, dizziness, or severe headache. Call 911 immediately. Causes include hypertension (primary risk), diabetes, smoking, obesity, atrial fibrillation, or high cholesterol. Risk factors are age, African American race, and family history. Acute ischemic treatment uses tPA (clot-dissolver) within 4 hours or surgery; hemorrhagic stroke needs bleeding control (medications, aneurysm clipping). Rehabilitation (physical/speech therapy) aids recovery; effects may include paralysis. Prevention involves controlling blood pressure (<120/80 mmHg), quitting smoking, low-sodium diets, and exercise. Anticoagulants reduce clots. Regular checkups and FAST awareness (Face, Arm, Speech, Time) ensure quick action, improving recovery and reducing disability.",
+    "metadata": {
+      "title": "Stroke",
+      "source": "MedlinePlus",
+      "category": "condition",
+      "url": "https://medlineplus.gov/stroke.html"
+    }
+  },
+  {
+    "id": "71",
+    "text": "Obesity is defined as excessive body fat (BMI \u226530), distinct from overweight, increasing risks for diabetes, heart disease, stroke, arthritis, sleep apnea, and cancers. Symptoms include weight gain, fatigue, joint pain, shortness of breath, and reduced mobility due to fat accumulation. Causes involve consuming more calories than burned, influenced by genetics, high-calorie diets (fast food, sugary drinks), inactivity, hormonal disorders (hypothyroidism), or stress-related overeating. Treatment focuses on 5\u201310% weight loss (e.g., 10\u201320 pounds for 200 pounds) via balanced diets (vegetables, lean proteins), 150\u2013300 minutes weekly exercise, and behavioral therapy for eating habits. Medications or bariatric surgery (gastric bypass) aid severe cases. Untreated obesity risks reduced life expectancy or mental health issues. Prevention includes healthy eating (limiting processed foods), active lifestyles (cycling, walking), and early habit formation. Regular checkups monitor cholesterol or blood sugar. Support from dietitians or groups boosts motivation, improving energy, mobility, and health with sustained weight loss efforts.",
+    "metadata": {
+      "title": "Obesity",
+      "source": "MedlinePlus",
+      "category": "condition",
+      "url": "https://medlineplus.gov/obesity.html"
+    }
+  },
+  {
+    "id": "72",
+    "text": "Allergies occur when the immune system overreacts to harmless substances like pollen, dust mites, pet dander, foods (nuts, shellfish), or medications, triggering a range of symptoms. Mild symptoms include sneezing, runny or stuffy nose, itchy/watery eyes, hives, or skin rashes, while severe cases may cause anaphylaxis, a life-threatening reaction with breathing difficulties, swelling, or throat closure, requiring immediate care. Causes involve genetic predisposition, environmental exposures, or immune dysfunction, with triggers varying widely (e.g., seasonal pollen, mold). Treatment includes antihistamines (cetirizine) for relief, nasal corticosteroids for allergic rhinitis, and epinephrine auto-injectors (EpiPen) for emergencies. Immunotherapy (allergy shots) reduces sensitivity over years. Avoidance is key: use air purifiers, wash bedding in hot water, and check food labels. Untreated allergies can worsen asthma or cause sinus infections. Prevention involves minimizing allergen exposure (closing windows, regular cleaning), breastfeeding infants for immunity, and early allergen testing. Regular allergist visits and emergency preparedness (carrying EpiPens) improve safety, reducing symptom severity and enhancing quality of life, especially for children or those with severe reactions.",
+    "metadata": {
+      "title": "Allergies",
+      "source": "MedlinePlus",
+      "category": "condition",
+      "url": "https://medlineplus.gov/allergy.html"
+    }
+  },
+  {
+    "id": "73",
+    "text": "Migraines are severe, throbbing headaches, often unilateral, lasting 4\u201372 hours, significantly disrupting daily life. Symptoms include nausea, vomiting, sensitivity to light, sound, or smells, and aura (visual disturbances like flashing lights or tingling) in some cases. Triggers vary: stress, hormonal changes (menstruation, menopause), sleep disruptions, caffeine, alcohol, or foods (chocolate, MSG). Causes may involve genetics, brain chemical imbalances, or vascular changes. Treatment uses over-the-counter pain relievers (ibuprofen) for mild attacks, triptans (sumatriptan) or CGRP inhibitors for severe cases, and anti-nausea drugs. Preventive medications (beta-blockers, antidepressants) reduce frequency for chronic migraines. Lifestyle changes\u2014consistent sleep (7\u20138 hours), hydration, stress management (yoga, meditation), and avoiding triggers\u2014minimize attacks. A headache diary tracks patterns, aiding management. Untreated migraines can lead to chronic pain or medication overuse headaches. Prevention includes routine schedules and trigger avoidance. Neurologist consultations ensure tailored plans, and techniques like biofeedback or acupuncture may help. Regular monitoring and early intervention reduce migraine frequency and severity, improving work, social life, and overall well-being for sufferers.",
+    "metadata": {
+      "title": "Migraines",
+      "source": "MedlinePlus",
+      "category": "condition",
+      "url": "https://medlineplus.gov/migraine.html"
+    }
+  },
+  {
+    "id": "74",
+    "text": "Thyroid disorders disrupt the thyroid gland\u2019s hormone production, affecting metabolism, energy, and organ function. Hypothyroidism (underactive thyroid) causes fatigue, weight gain, dry skin, hair loss, constipation, cold intolerance, and depression due to low hormone levels. Hyperthyroidism (overactive thyroid) leads to weight loss, anxiety, rapid heartbeat, sweating, heat intolerance, and tremors. Symptoms may include goiter (neck swelling), irregular periods, or mood swings. Causes include autoimmune diseases (Hashimoto\u2019s for hypothyroidism, Graves\u2019 for hyperthyroidism), iodine deficiency, thyroiditis, or nodules. Diagnosis uses blood tests (TSH, T4 levels) and imaging (ultrasound). Treatment for hypothyroidism involves levothyroxine to replace hormones; hyperthyroidism uses antithyroid drugs (methimazole), radioactive iodine to shrink the gland, or surgery. Regular monitoring adjusts dosing. Untreated disorders risk heart issues, infertility, or osteoporosis. Prevention includes adequate iodine (seafood, iodized salt), stress management, and avoiding excessive soy. Regular checkups, especially with family history, catch issues early. Dietary adjustments and support groups improve energy, mood, and health, ensuring stable hormone levels with consistent medical care.",
+    "metadata": {
+      "title": "Thyroid Disorders",
+      "source": "MedlinePlus",
+      "category": "condition",
+      "url": "https://medlineplus.gov/thyroiddiseases.html"
+    }
+  },
+  {
+    "id": "75",
+    "text": "Osteoporosis weakens bones, making them brittle and prone to fractures, particularly in the hips, spine, and wrists, and is common in older adults, especially postmenopausal women due to estrogen decline. Symptoms are often absent until a fracture occurs, though some experience back pain, height loss, or stooped posture. Causes include aging, low calcium/vitamin D intake, inactivity, smoking, excessive alcohol, long-term steroid use, or hormonal disorders. Treatment uses bisphosphonates (alendronate) to slow bone loss, calcium (1200 mg daily), vitamin D supplements, and weight-bearing exercises (walking, strength training) to improve density. Balance exercises (tai chi) reduce fall risks. Untreated osteoporosis can cause chronic pain, disability, or spinal deformities. Prevention involves a bone-healthy diet (dairy, greens), regular exercise, quitting smoking, and limiting alcohol. Bone density scans (DXA) monitor risks in those over 65. Fall-proofing homes (grab bars, non-slip mats) and regular checkups maintain mobility, preventing fractures and supporting independence with proactive care.",
+    "metadata": {
+      "title": "Osteoporosis",
+      "source": "MedlinePlus",
+      "category": "condition",
+      "url": "https://medlineplus.gov/osteoporosis.html"
+    }
+  },
+  {
+    "id": "76",
+    "text": "Pneumonia is a lung infection caused by bacteria, viruses, or fungi, inflaming air sacs and causing cough, fever, and breathing difficulties. Symptoms include productive cough (mucus or phlegm), high fever, chills, chest pain (worsened by breathing), shortness of breath, fatigue, and confusion, particularly in older adults. Bacterial pneumonia (e.g., Streptococcus pneumoniae) is common, while viral cases often follow flu. Risk factors include smoking, chronic conditions (COPD, diabetes), weakened immunity, or recent respiratory infections. Treatment depends on cause: antibiotics (azithromycin) for bacterial, antivirals for some viral cases, and rest/fluids for recovery. Severe cases need hospitalization for oxygen or IV fluids. Complications include sepsis, lung abscesses, or respiratory failure. Prevention involves pneumococcal/flu vaccinations, quitting smoking, and hygiene (handwashing). Healthy diets and exercise boost immunity. Patients must complete treatments to avoid relapse. Regular checkups, especially for high-risk groups, ensure early intervention, reducing recovery time and preventing severe outcomes, particularly in children or the elderly.",
+    "metadata": {
+      "title": "Pneumonia",
+      "source": "MedlinePlus",
+      "category": "condition",
+      "url": "https://medlineplus.gov/pneumonia.html"
+    }
+  },
+  {
+    "id": "77",
+    "text": "Kidney stones are hard mineral deposits (calcium, uric acid) forming in the kidneys, causing severe pain when passing through the urinary tract. Symptoms include sharp, cramping pain in the back, side, or lower abdomen, blood in urine (pink/red), nausea, vomiting, frequent/painful urination, or fever if infected. Causes include dehydration, high-sodium/protein diets, obesity, genetics, or conditions like gout or hyperparathyroidism. Diagnosis uses urine tests, imaging (CT, ultrasound), or stone analysis. Treatment involves pain relievers (NSAIDs), hydration (2\u20133 liters daily) to flush small stones, and medications (tamsulosin) to aid passage. Large stones require lithotripsy (sound waves) or surgery (ureteroscopy). Untreated stones risk infections or kidney damage. Prevention includes ample water intake, low-sodium/oxalate diets (avoid spinach, nuts), and calcium-rich foods to bind oxalates. Regular checkups and urine analysis monitor recurrence (50% risk). Dietary changes and hydration reduce stone formation, improving kidney function and comfort with consistent management.",
+    "metadata": {
+      "title": "Kidney Stones",
+      "source": "MedlinePlus",
+      "category": "condition",
+      "url": "https://medlineplus.gov/kidneystones.html"
+    }
+  },
+  {
+    "id": "78",
+    "text": "Gallstones, or cholelithiasis, are hardened deposits of bile, typically cholesterol or bilirubin, forming in the gallbladder, which stores bile to aid fat digestion. Symptoms include sudden, intense pain in the upper right abdomen or center, often after meals, lasting minutes to hours, accompanied by nausea, vomiting, fever, or jaundice (yellow skin/eyes) if stones block bile ducts. Many gallstones are asymptomatic until a blockage occurs, detected incidentally during imaging. Causes include high-cholesterol or high-fat diets, obesity, rapid weight loss, diabetes, genetics, or being female, with higher risks in older adults, Native Americans, and Mexican Americans. Diagnosis relies on ultrasound or CT scans, sometimes blood tests for infection or jaundice. Treatment often involves laparoscopic cholecystectomy, a minimally invasive surgery to remove the gallbladder, with quick recovery. Medications like ursodiol may dissolve small stones over months, though less common. Untreated gallstones can cause complications like gallbladder inflammation (cholecystitis), infections, or pancreatitis. Prevention includes a low-fat, high-fiber diet (vegetables, whole grains), gradual weight loss, and regular exercise (30 minutes most days). Regular checkups detect stones early, especially in high-risk groups. Post-surgery, most resume normal diets, but some avoid fatty foods to prevent diarrhea. Consistent dietary habits and monitoring maintain digestive health, reducing recurrence risks.",
+    "metadata": {
+      "title": "Gallstones",
+      "source": "MedlinePlus",
+      "category": "condition",
+      "url": "https://medlineplus.gov/gallstones.html"
+    }
+  },
+  {
+    "id": "79",
+    "text": "Eczema, or atopic dermatitis, is a chronic skin condition causing dry, itchy, inflamed patches, often on the face, elbows, knees, hands, or feet. Symptoms include intense itching (worse at night), redness, swelling, dry or scaly skin, small bumps that may leak fluid, and crusting or oozing sores from scratching. It\u2019s most common in babies and children, often starting before age 5, but can persist or appear in adults. The cause is unknown but involves genetics (family history of allergies or asthma), environmental triggers, and a weakened skin barrier lacking proteins to retain moisture. Diagnosis is based on physical exams and medical history, with skin or blood tests to rule out other conditions. Treatment focuses on symptom relief: moisturizers (ceramide-based) hydrate skin, topical corticosteroids (hydrocortisone) reduce inflammation, and antihistamines ease itching. Severe cases may use phototherapy or oral immunosuppressants. Avoiding triggers\u2014harsh soaps, wool fabrics, pollen, stress\u2014is crucial. Complications include skin infections, asthma, or hay fever. Prevention involves daily moisturizing, gentle skincare, humidifiers, and stress management. Regular dermatologist visits and patch testing identify triggers, helping patients manage flares and maintain skin health, improving comfort and quality of life.",
+    "metadata": {
+      "title": "Eczema",
+      "source": "MedlinePlus",
+      "category": "condition",
+      "url": "https://medlineplus.gov/eczema.html"
+    }
+  },
+  {
+    "id": "80",
+    "text": "Anxiety disorders are mental health conditions marked by excessive, persistent fear or worry that disrupts daily activities like work, school, or relationships. Symptoms include uncontrollable anxious thoughts, restlessness, tension, fatigue, irritability, difficulty concentrating, muscle tension, sleep disturbances, and physical signs like rapid heartbeat, sweating, trembling, dizziness, shortness of breath, or nausea. Types include Generalized Anxiety Disorder (GAD, excessive worry for \u22656 months), Panic Disorder (sudden panic attacks), and Phobias (intense fear of specific objects/situations). Causes are unclear but involve genetics, brain chemistry, stress, traumatic events, or personality traits (e.g., shyness). Diagnosis includes a medical history review, physical exam, lab tests to exclude other conditions, and psychological evaluation, often by a mental health professional. Treatment combines psychotherapy (Cognitive Behavioral Therapy, Acceptance and Commitment Therapy) and medications (SSRIs like sertraline, anti-anxiety drugs). Stress management (mindfulness, relaxation) and support groups help. Complications include depression or reduced quality of life. While prevention is limited, stress reduction and early intervention mitigate risks. Regular mental health checkups and avoiding caffeine/substances improve outcomes, helping patients regain control and enhance well-being.",
+    "metadata": {
+      "title": "Anxiety Disorders",
+      "source": "MedlinePlus",
+      "category": "condition",
+      "url": "https://medlineplus.gov/anxiety.html"
+    }
+  }
+]
